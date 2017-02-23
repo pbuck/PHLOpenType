@@ -1,0 +1,144 @@
+body {
+  background: #FAF5EC;
+  font-family: 'Heebo', sans-serif;
+}
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+}
+h3 {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+.hero {
+background: -moz-linear-gradient(top, #62d167 0%,#05abe0 100%);
+background: -webkit-linear-gradient(top,  #62d167 0%,#05abe0 100%);
+background: linear-gradient(to bottom,  #62d167 0%,#05abe0 100%);
+background: url("img/hero2.png") no-repeat center center fixed;
+background-size: cover;
+height: 800px;
+text-align: center;
+padding: 20px;
+color:#FAF5EC;
+}
+.lt {
+  margin:0 auto;
+  max-width: 80%;
+  min-width: 20%;
+}
+.lt img {
+  content-align: center;
+}
+.lt h3 {
+  font-size: 2.3em;
+/* margin-bottom: 20px; */
+max-width: 700px;
+margin: -45px auto;
+line-height: 55px;
+}
+.lt h1 {
+    margin: 0 auto;
+    padding-top: 90px;
+}
+.learn {
+  font-size: 2em;
+  text-decoration: none;
+  width: 230px;
+  margin: 0 auto;
+  margin-top: 195px;
+}
+.learn a {
+  padding-top: 40px;
+text-decoration: none;
+color: inherit;
+display: none;
+}
+.learn img {
+  padding-top: 10px;
+  height: 31px;
+
+}
+.content {
+  margin-left: 10%;
+margin-right: 10%;
+margin-top: 100px;
+}
+
+.group h3 {
+  text-transform: uppercase;
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+
+.group p {
+  color: #1e1e1e;
+  line-height: 150%;
+  font-size: 1em;
+  letter-spacing: .3px;
+}
+.gcontent {
+  padding-bottom: 35px;
+}
+.hoods {
+  text-align:center;
+  margin-bottom: 55px;
+
+}
+.hoods li {
+  background: white;
+    display: inline-block;
+    border-radius: 3px;
+    font-weight: 700;
+    padding: 30px 30px;
+    letter-spacing: 1px;
+    font-size: 1.2em !important;
+    text-transform: uppercase;
+    margin: 2rem auto;
+    box-shadow: 0px 15px 40px -26px;
+    padding-top: 25px;
+    margin-left: 10px;
+    font-size: 2em;
+    box-sizing: border-box;
+}
+
+
+.jbut {
+  color: #faf5ec;
+      text-decoration: none;
+      font-weight: 700;
+      border-radius: 3px;
+      background: #006574;
+      display: inline-block;
+      padding: 20px 50px;
+      letter-spacing: 1px;
+      font-size: 1.7em !important;
+      text-transform: uppercase;
+      margin: 2rem auto;
+      cursor:pointer;
+      padding-top: 25px;
+
+      font-size: 2em;
+
+}
+
+.join  {
+ text-align: center;
+
+}
+
+.join h3 {
+  text-align: left;
+}
+
+.join p {
+  text-align: left;
+}
+.phl{
+      padding: 10px;
+float: right;
+}
+    .fa {
+    color: #E90606;
+    margin: 0 3px;
+    font-size: 15px;
+}
