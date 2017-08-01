@@ -153,9 +153,10 @@ float: right;
 }
 .buy .image {
   height: 300px;
-  width:325px;
+  width:300px;
   background: grey;
   float:left;
+
 }
 .give {
     background-image: url(img/hoods/give.png) !important;
