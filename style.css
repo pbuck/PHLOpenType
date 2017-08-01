@@ -157,6 +157,12 @@ float: right;
   background: grey;
   float:left;
 }
+.give {
+    background-image: url(img/hoods/give.png) !important;
+    background-size: cover !important;
+
+
+}
 .ch {
     background-image: url(img/hoods/ch.png) !important;
     background-size: cover !important;
